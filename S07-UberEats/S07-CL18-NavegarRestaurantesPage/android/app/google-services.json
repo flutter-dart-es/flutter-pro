@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1043901465013",
+    "firebase_url": "https://uberfoodapp.firebaseio.com",
+    "project_id": "uberfoodapp",
+    "storage_bucket": "uberfoodapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043901465013:android:7d3ec6573350fe59",
+        "android_client_info": {
+          "package_name": "dev.miguelcampos.flutteruberfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043901465013-8bn47e0k34061fh20g7knsuiubc3k4gv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.miguelcampos.flutteruberfood",
+            "certificate_hash": "172cefbb5b1e460157b7fc8d11493d696122bff4"
+          }
+        },
+        {
+          "client_id": "1043901465013-pra1kpu1u5vc0fmsvcebs5o08o9uihm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo_WY7VFYOpB_V_VQqULeMTuVD-3kF34M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043901465013-pra1kpu1u5vc0fmsvcebs5o08o9uihm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
